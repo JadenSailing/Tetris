@@ -1,3 +1,12 @@
+#################
+## Unity3D
+#################
+Unity3dTests/Library/
+Unity3dTests/Temp/
+Unity3dTests/Assets/UnityVS/
+*.sln
+*.csproj
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
